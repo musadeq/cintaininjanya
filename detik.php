@@ -1,5 +1,6 @@
 <?php
 
+// KELAS GA GUNA, CLASS DETIK?
 Class Detik
 {
     private $base;
